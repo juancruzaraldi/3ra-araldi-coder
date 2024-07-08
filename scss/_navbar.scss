@@ -1,0 +1,18 @@
+.navbar{
+    position: sticky;
+}
+.navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+    text-transform: uppercase;
+}
+.container-fluid{
+    background-color: #ffffff;
+    padding: 10px 30px 10px 30px;
+}
+.img-logo{
+    width: 200px;
+    margin-right: 20px;
+}
+.btn-primary{
+    text-transform: uppercase;
+}
